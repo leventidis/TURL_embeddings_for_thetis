@@ -102,10 +102,8 @@ ENV/
 
 # input data, saved log, checkpoints
 data/
-input/
 saved/
 datasets/
-output/
 runs/
 cache/
 
